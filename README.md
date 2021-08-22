@@ -1,5 +1,5 @@
 # TallerColaborativo1er50
-## El siguente es un taller colaborativo correspondiente a la materia de Programación II  de la UPTC.
+## El siguiente es un taller colaborativo correspondiente a la materia de Programación II  de la UPTC.
 ## Integrantes:
 ### Yasser Fernando Cristancho Diaz.
 ### Luis Francisco Gonzalez Morales.
