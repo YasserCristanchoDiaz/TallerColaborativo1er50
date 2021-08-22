@@ -1,2 +1,4 @@
 # TallerColavorativo1er50
-Taller colavorativo programación 2 UPTC
+##El siguente es un taller colavorativo correspondiente a la materia de Programación II  de la UPTC.
+##Integantes:
+###Yasser Fernando Cristancho Diaz.
