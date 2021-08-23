@@ -6,7 +6,7 @@
 ### Leidy Ximena Penagos Martinez.
 
 ## ID: 
-### Intellijidea
+### IntelliJ IDEA
 ## Version:
 ### Java 15
 
